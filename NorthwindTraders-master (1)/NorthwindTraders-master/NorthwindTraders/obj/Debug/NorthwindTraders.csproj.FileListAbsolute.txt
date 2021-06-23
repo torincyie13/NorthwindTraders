@@ -1,0 +1,10 @@
+C:\Users\sogli\Downloads\NorthwindTraders-master (1)\NorthwindTraders-master\NorthwindTraders\bin\Debug\NorthwindTraders.exe.config
+C:\Users\sogli\Downloads\NorthwindTraders-master (1)\NorthwindTraders-master\NorthwindTraders\bin\Debug\NorthwindTraders.exe
+C:\Users\sogli\Downloads\NorthwindTraders-master (1)\NorthwindTraders-master\NorthwindTraders\bin\Debug\NorthwindTraders.pdb
+C:\Users\sogli\Downloads\NorthwindTraders-master (1)\NorthwindTraders-master\NorthwindTraders\obj\Debug\NorthwindTraders.csprojAssemblyReference.cache
+C:\Users\sogli\Downloads\NorthwindTraders-master (1)\NorthwindTraders-master\NorthwindTraders\obj\Debug\NorthwindTraders.frmCustomers.resources
+C:\Users\sogli\Downloads\NorthwindTraders-master (1)\NorthwindTraders-master\NorthwindTraders\obj\Debug\NorthwindTraders.Properties.Resources.resources
+C:\Users\sogli\Downloads\NorthwindTraders-master (1)\NorthwindTraders-master\NorthwindTraders\obj\Debug\NorthwindTraders.csproj.GenerateResource.cache
+C:\Users\sogli\Downloads\NorthwindTraders-master (1)\NorthwindTraders-master\NorthwindTraders\obj\Debug\NorthwindTraders.csproj.CoreCompileInputs.cache
+C:\Users\sogli\Downloads\NorthwindTraders-master (1)\NorthwindTraders-master\NorthwindTraders\obj\Debug\NorthwindTraders.exe
+C:\Users\sogli\Downloads\NorthwindTraders-master (1)\NorthwindTraders-master\NorthwindTraders\obj\Debug\NorthwindTraders.pdb
